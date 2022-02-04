@@ -34,7 +34,7 @@
 
       <div id="session-footer">
         <p style="font-weight: bold">{{ (isPause) ? 'Pause' : "Aktuelle Übung: " + currentExercise[currentIndex] }} </p>
-        <p id="feedback">Bitte Knie weniger beugen</p>
+        <p id="feedback"></p>
       </div>
     </div>
 
