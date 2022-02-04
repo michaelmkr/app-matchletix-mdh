@@ -1,7 +1,7 @@
 MathletiX Application
 ===
 
-###The MatchletiX trainings program should support athletes after a knee injury to pursue their rehabilitation in the late stage by providing an interactive setting. With the objective to reduce the re-injury rate and help them find a safe way back to sport.
+### The MatchletiX trainings program should support athletes after a knee injury to pursue their rehabilitation in the late stage by providing an interactive setting. With the objective to reduce the re-injury rate and help them find a safe way back to sport.
 
 ### This is a research project of the master Digital Healthcare at the UAS St. Pölten. 
 
